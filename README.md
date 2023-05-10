@@ -1,4 +1,4 @@
-### Oi Pessoal me chamo Idney Max  👋
+### Oi Pessoal,  meu nome Idney Max  👋
 
 <!--
 **Maxinfor/Maxinfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
